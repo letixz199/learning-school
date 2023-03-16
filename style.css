@@ -1,3 +1,9 @@
 body{
     background-color: rgb(255, 255, 255);
+    color:white;
+    display: flex;
+}
+
+.cabecalho-imagem{
+    width: 50%
 }
