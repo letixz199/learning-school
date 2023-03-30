@@ -1,3 +1,8 @@
+img{
+    width: 60%;
+    margin-left: auto;
+    display: block;
+}
 .cabecalho {
     background-color: #095730;
     color: white;
@@ -5,4 +10,5 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    text-align: center;
 }
