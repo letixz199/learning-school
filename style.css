@@ -11,9 +11,12 @@ img{
     align-items: center;
     padding: 24px 0;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .cabecalho-lista-item{
     display:inline-block;
     margin: 0 16px;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
